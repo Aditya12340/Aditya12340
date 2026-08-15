@@ -7,7 +7,7 @@
 ██║  ██║██████╔╝██║   ██║      ██║   ██║  ██║
 ╚═╝  ╚═╝╚═════╝ ╚═╝   ╚═╝      ╚═╝   ╚═╝  ╚═╝
 
-````
+
 
 ### Engineering Science @ University of Toronto &nbsp;·&nbsp; Toronto, Canada
 
