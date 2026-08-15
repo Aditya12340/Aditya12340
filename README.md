@@ -23,7 +23,7 @@ drwxr-xr-x  ML Library in C
                  autodiff, neural-network layers, and arena-based memory management
                  from scratch. Trained a residual MLP to 93.2% accuracy on MNIST.
 
-drwxr-xr-x  Quantitative ML @ St George Capital
+drwxr-xr-x  Quant stuff @ St George Capital
              └── Exploring crypto arbitrage, flow toxicity, options
 ````
 
