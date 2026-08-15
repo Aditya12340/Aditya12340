@@ -1,6 +1,10 @@
 
 
 
+## `$ whoami`
+
+Hey, I'm Aditya! I'm an Engineering Science student at the University of Toronto interested in machine learning, quantitative finance, and high-performance computing.
+
 
 ### Engineering Science @ University of Toronto &nbsp;·&nbsp; Toronto, Canada
 
@@ -9,14 +13,6 @@
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya12340-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya12340)
 
 </div>
-
----
-
-## `$ whoami`
-
-Hey, I'm Aditya! I'm an Engineering Science student at the University of Toronto interested in machine learning, quantitative finance, and high-performance computing.
-
-
 ---
 
 ## `$ ls -la ./current-work`
