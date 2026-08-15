@@ -9,7 +9,6 @@ Hey, I'm Aditya! I'm an Engineering Science student at the University of Toronto
 ### Engineering Science @ University of Toronto &nbsp;·&nbsp; Toronto, Canada
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Aditya_Jain-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-jain2026)
-[![Gmail](https://img.shields.io/badge/Gmail-adityajain.2358-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:adityajain.2358@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-Aditya12340-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Aditya12340)
 
 </div>
